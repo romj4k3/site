@@ -1,3 +1,5 @@
 Opapapa
-wefwsfgwerf
-wfwf
+<<<<<<< HEAD
+=======
+
+>>>>>>> new_style
